@@ -1,6 +1,7 @@
 # 🚀 Deployment Guide
 
-This guide will help you deploy the Intern Dashboard to various platforms.
+FOR OTHER TEAM MEMBERS --
+(MANSI UPRETI)
 
 ## 📋 Prerequisites
 
