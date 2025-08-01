@@ -1,5 +1,3 @@
-// Firebase Setup Script
-// This script helps you set up the initial data structure in Firebase Realtime Database
 
 // Sample data structure for the intern dashboard
 const sampleData = {
