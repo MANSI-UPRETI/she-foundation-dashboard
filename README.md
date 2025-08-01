@@ -1,6 +1,24 @@
 # Intern Dashboard Management System
 
 A comprehensive React-based web application for managing internship programs, tracking intern performance, and organizing events.
+<img width="1365" height="712" alt="image" src="https://github.com/user-attachments/assets/e62d9907-2f24-45a0-9793-be294601e0d7" />
+<img width="1350" height="627" alt="image" src="https://github.com/user-attachments/assets/678556ba-11ea-42d5-a557-cf6ba973f971" />
+<img width="1136" height="609" alt="image" src="https://github.com/user-attachments/assets/2c51ddbc-0298-4eee-b2fd-c8404730bf63" />
+<img width="1365" height="617" alt="image" src="https://github.com/user-attachments/assets/934a55d0-238e-4b52-92c2-b686c4ccd835" />
+<img width="860" height="594" alt="image" src="https://github.com/user-attachments/assets/52c9e54b-d200-442f-a3b5-26015994d755" />
+<img width="1286" height="619" alt="image" src="https://github.com/user-attachments/assets/f50671b4-f822-4993-9066-c660db0c7a9d" />
+<img width="1164" height="620" alt="image" src="https://github.com/user-attachments/assets/6d15438e-6701-4cc0-b6e8-f4e2135e592c" />
+<img width="1357" height="625" alt="image" src="https://github.com/user-attachments/assets/b97204ff-0709-46f7-adf4-7d6f6502c726" />
+<img width="1365" height="594" alt="image" src="https://github.com/user-attachments/assets/2f36dd62-6e1b-476b-a6fe-453275a03eef" />
+<img width="985" height="530" alt="image" src="https://github.com/user-attachments/assets/3f423c21-d14e-4114-8442-4d2daaccbc46" />
+<img width="890" height="625" alt="image" src="https://github.com/user-attachments/assets/70f8a99b-643b-4b6e-8a10-972c47a35e9a" />
+<img width="1362" height="604" alt="image" src="https://github.com/user-attachments/assets/51408895-e6b8-4d03-b7f8-32ce5c1cb29e" />
+<img width="1270" height="627" alt="image" src="https://github.com/user-attachments/assets/3a4b954c-e594-4ffb-b18c-684fef24bbce" />
+<img width="1198" height="612" alt="image" src="https://github.com/user-attachments/assets/f988ac85-9526-4f73-a720-e0bf5065a17f" />
+
+DARK MODE:
+<img width="1191" height="619" alt="image" src="https://github.com/user-attachments/assets/ba80b687-9583-41b9-ab39-47142ab709ba" />
+<img width="1348" height="615" alt="image" src="https://github.com/user-attachments/assets/82c56d15-c5f7-4e8c-9a64-13c4d8b9f69d" />
 
 ## Features
 
