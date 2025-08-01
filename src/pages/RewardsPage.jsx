@@ -97,7 +97,7 @@ const RewardsPage = () => {
             <div>
               <h6 style={{ margin: 0, color: 'var(--text-primary)' }}>{intern.name}</h6>
               <p style={{ margin: 0, color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
-                {intern.department || 'General'} • {intern.achievements} achievements
+                {intern.department || 'General'} • {intern.achievements?.length || 0}
               </p>
             </div>
           </div>
@@ -113,10 +113,10 @@ const RewardsPage = () => {
                   setShowIssueModal(true);
                 }}
               >
-                Issue Reward
+                Reward
               </button>
               <button className="btn btn-secondary btn-sm">
-                View Details
+                Details
               </button>
             </div>
           </div>
@@ -189,9 +189,9 @@ const RewardsPage = () => {
             <div className="card-body text-center" style={{ padding: '1rem' }}>
               <div style={{ fontSize: '1.5rem', color: 'var(--primary-sage-green)', marginBottom: '0.25rem' }}>🏆</div>
               <h4 style={{ color: 'var(--text-primary)', margin: 0 }}>
-                {interns.reduce((sum, i) => sum + i.achievements, 0)}
+                {interns.reduce((sum, i) => sum + (i.achievements?.length || 0), 0)}
               </h4>
-              <p style={{ color: 'var(--text-secondary)', margin: 0, fontSize: '0.75rem' }}>Rewards</p>
+              <p style={{ color: 'var(--text-secondary)', margin: 0, fontSize: '0.75rem' }}>Total</p>
             </div>
           </div>
         </div>
